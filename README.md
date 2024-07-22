@@ -30,8 +30,8 @@ This repository contains an automated test suite for the LoanPro Calculator CLI 
 1. Clone this repository:
 
     ```sh
-    git clone https://github.com/your-username/calculator-cli-tests.git
-    cd calculator-cli-tests
+    git clone https://github.com/TheAleRios/python-calculator-tests-challenge
+    cd python-calculator-tests-challenge
     ```
 
 2. Create a virtual environment (optional but recommended):
