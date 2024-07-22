@@ -18,6 +18,8 @@ This repository contains an automated test suite for the LoanPro Calculator CLI 
 
 [Reports](#reports)
 
+[Findings](#findings)
+
 ## Requirements
 
 - Python 3.6 or higher
@@ -103,7 +105,8 @@ This configuration set the test path to the folder "tests" and use html reports 
 ## Reports
 Reports in html and json will be generated in the report folder after each test run. If already exists the existing reports will be updated. 
 
-
+## Findings
+All findings and bugs will go into Findings doc file in root folder.
 
 ## Contributing
 
